@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cat-pets/static/css/main.bf961526.css",
+    "main.js": "/cat-pets/static/js/main.50649783.js",
+    "static/media/cats-background.jpg": "/cat-pets/static/media/cats-background.ca965ea58a29acbbacb8.jpg",
+    "index.html": "/cat-pets/index.html",
+    "main.bf961526.css.map": "/cat-pets/static/css/main.bf961526.css.map",
+    "main.50649783.js.map": "/cat-pets/static/js/main.50649783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf961526.css",
+    "static/js/main.50649783.js"
+  ]
+}
